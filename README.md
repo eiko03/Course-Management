@@ -6,6 +6,9 @@ composer Install
 npm Install
 ```
 ```
+cp .env.example .env
+```
+```
 php artisan key:generate
 php artisan migrate
 ```
