@@ -1,9 +1,9 @@
 ## Prerequisites
 ```
-composer Install
+composer install
 ```
 ```
-npm Install
+npm install
 ```
 ```
 cp .env.example .env
